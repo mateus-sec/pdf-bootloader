@@ -21,6 +21,9 @@ volumeID:				        dd 0xa1b2c3d4
 volumeLabel:			      db "MATEUSOS   " ;espaço de 11 chars"
 fileSysType:			      db "FAT12   "    ;espaço de 8"
 
+;--------------------------------------------------------------------------------------------
+
+
 nop
 nop
 nop
