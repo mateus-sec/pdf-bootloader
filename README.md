@@ -30,3 +30,5 @@ Exibição da Imagem: A imagem monocromática é exibida em uma tela de 320x200 
 Pré-requisitos:
 - VMware: Você precisará de um ambiente VMware para rodar o arquivo PDF.
 - Crie um floppy 
+
+![alt text](BootLoaderVideo.gif)
