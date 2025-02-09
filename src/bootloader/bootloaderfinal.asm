@@ -1,25 +1,27 @@
+```assembly
 jmp short main
 nop
 
-OEMname:				        db "MATEUSOS"
-byterPerSector:			    dw 512
-sectPerCluster:			    db 1
-reservedSectors:		    dw 1
-numFATs:				        db 2
-numRootDirEntries:	    dw 224
-numSectors:				      dw 2880
-mediaType:				      db 0xf0
-numFatSectors:			    dw 9
-sectorsPerTrack:		    dw 18
-numHeads:				        dw 2	
-numHidenSector:			    dd 0
-numSectorsHuge:			    dd 0
-driveNum:				        db 0
-reserved:				        db 0
+OEMname:                db "MATEUSOS"
+byterPerSector:         dw 512
+sectPerCluster:         db 1
+reservedSectors:        dw 1
+numFATs:                db 2
+numRootDirEntries:      dw 224
+numSectors:             dw 2880
+mediaType:              db 0xf0
+numFatSectors:          dw 9
+sectorsPerTrack:        dw 18
+numHeads:               dw 2    
+numHidenSector:         dd 0
+numSectorsHuge:         dd 0
+driveNum:               db 0
+reserved:               db 0
 extendedBootSignature:  db 0x29 
-volumeID:				        dd 0xa1b2c3d4
-volumeLabel:			      db "MATEUSOS   " ;espaço de 11 chars"
-fileSysType:			      db "FAT12   "    ;espaço de 8"
+volumeID:               dd 0xa1b2c3d4
+volumeLabel:            db "MATEUSOS   " ;espaço de 11 chars"
+fileSysType:            db "FAT12   "    ;espaço de 8"
+
 
 ;--------------------------------------------------------------------------------------------
 
