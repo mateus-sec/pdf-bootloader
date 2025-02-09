@@ -92,9 +92,8 @@ Dentro do stream e endstream você tem que colocar os bytes do seu código .bin
 
 ![alt text](image-3.png)
 
-Qualquer dúvida, baixe o arquivo pdf [text](<../../Lorem ipsum dolor.pdf>) e veja em um editor hexadecimal para ver como esta.
+Qualquer dúvida, baixe o arquivo pdf [📄 Baixar o PDF](<../../Lorem ipsum dolor.pdf>) e veja em um editor hexadecimal para ver como esta.
 
 Imagem no arquivo:
-
 
 ![alt text](../../3.bmp)
