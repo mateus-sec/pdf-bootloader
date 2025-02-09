@@ -156,7 +156,7 @@ mov bl, 0x0f
 mov cx, 0x0f
 mov dh, 0x1c
 mov dl, 0x04
-mov bp, mensagem
+;mov bp, mensagem
 ;add bp, 0x7c00
 int 0x10
 
@@ -182,9 +182,6 @@ jmp stage2
 ;--------------------------------------------------------------------------------------------
 
 drvnum: db 0
-
-;Variáveis
-mensagem:db 'Me contrata! =D'
 
 ;finalizando
 times (510 - ($ -$$)) db 0x00
