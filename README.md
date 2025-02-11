@@ -31,4 +31,4 @@ Pré-requisitos:
 - VMware: Você precisará de um ambiente VMware para rodar o arquivo PDF.
 - Crie um floppy 
 
-![GIF](https://imgur.com/a/Fc87H7o)
+![GIF animado](https://imgur.com/a/Fc87H7o)
