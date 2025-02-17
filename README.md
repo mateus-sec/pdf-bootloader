@@ -33,4 +33,4 @@ Pré-requisitos:
 
 # Vídeo 
 
-![Vídeo do Projeto](https://streamable.com/hd52ur)
+Assista ao vídeo [aqui](https://streamable.com/hd52ur).
