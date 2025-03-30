@@ -97,3 +97,5 @@ Qualquer dúvida, baixe o arquivo pdf [📄 Baixar o PDF](<../../Lorem ipsum dol
 Imagem no arquivo:
 
 ![alt text](../../3.bmp)
+
+*Caso não abara a imagem no floppy da VMWare, verifique se o pdf está aberto em algum editor. Se estive, é só fechar o editor e rodar novamente.
